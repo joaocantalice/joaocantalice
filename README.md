@@ -3,7 +3,8 @@
 ##
 
 - 🔭 Atualmente sou estagiário na Horizon/BA
-- 🌱 Cursando Desenvolvimento Fullstack na Infinity School/FIAP
+- 🌱 Cursando Desenvolvimento Fullstack na Infinity School
+- 🌱 Cursando Engenharia de Software na FIAP
 - ✔ Desafio aceito, postar um exercício ou desafio por dia durante a semana
 
 ##
